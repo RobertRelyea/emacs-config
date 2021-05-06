@@ -1,0 +1,7 @@
+[submodule "packages/emacs-async"] 
+  path = packages/emacs-async
+  url = https://github.com/jwiegley/emacs-async
+
+[submodule "packages/helm"] 
+  path = packages/helm
+  url = https://github.com/emacs-helm/helm
